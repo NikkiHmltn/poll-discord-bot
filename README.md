@@ -18,3 +18,5 @@ The API used in this bot can be found at [github.com/sschneeberg/tierbreaker_bac
 Users can vote more than once using the discord bot, please note that is expected behavior. It's not necessary to install any repos pertaining to Tier Breaker to run this discord bot. All you need is your secret bracket key given after you have created one on the website! 
 
 ![bot screenshot](https://i.imgur.com/083G4Nt.png)
+
+######
