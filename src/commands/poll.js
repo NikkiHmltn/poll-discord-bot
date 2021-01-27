@@ -119,7 +119,7 @@ module.exports = {
                                     option: key,
                                     count: emojis[i]
                                 }
-                                axios.put(`http://localhost:5000/bracket/${args[0]}/bulkvote`, votingChoice)
+                                axios.put(`https://tierbreakerapi.herokuapp.com/bracket/${args[0]}/bulkvote`, votingChoice)
                                 .then((res) => {
                                     message.channel.send(`Votes counted for ${votingChoice.option}`)
                                 })
